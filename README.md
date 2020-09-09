@@ -1,14 +1,9 @@
 # CSS_REMINDER
 
 <h2> Responsive on 3 platforms </h2>
-
-// Responsive
+```css
 
 // If the screen is 600px or under (phone)
-```css
-.ddd{
-ddd}
-```
 @media screen and (max-width: 600px) {
 	
 	
@@ -21,7 +16,7 @@ ddd}
 
 // Between 1025 and 1368px
 @media screen and (min-width:1025px) and (max-width:1368px){
-
 	
 }
+```
 
