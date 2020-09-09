@@ -1,7 +1,7 @@
 # CSS_REMINDER
 
 <h2> Responsive on 3 platforms </h2>
-
+```css
 // Responsive
 
 // If the screen is 600px or under (phone)
@@ -20,5 +20,5 @@
 
 	
 }
-
+```
 
