@@ -2,7 +2,6 @@
 
 <h2> Responsive on 3 platforms </h2>
 ```css
-
 // If the screen is 600px or under (phone)
 @media screen and (max-width: 600px) {
 	
