@@ -5,6 +5,10 @@
 // Responsive
 
 // If the screen is 600px or under (phone)
+```css
+.ddd{
+ddd}
+```
 @media screen and (max-width: 600px) {
 	
 	
