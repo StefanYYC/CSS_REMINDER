@@ -3,8 +3,7 @@
 <h2> Responsive on 3 platforms </h2>
 // If the screen is 600px or under (phone)
 ```css
-@media screen and (max-width: 600px) {
-	
+@media screen and (max-width:600px) {
 }
 ```
 
@@ -12,7 +11,6 @@
 // Max 1024px (ipad pro)
 ```css
 @media screen and (max-width:1024px) {
-
 }
 ```
 
